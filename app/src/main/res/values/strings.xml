@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Face detection</string>
+    <string name="wait_3_seconds">Wait 3 seconds at the same angle please</string>
+    <string name="time_left">Time left for identification</string>
+    <string name="place_the_device">Place the device in front of the front camera please</string>
+    <string name="continue_to_next_step">Continue to the next step</string>
+    <string name="looking_for_face">Looking for a face to identify..</string>
+    <string name="shift_desired_angle">"There was a shift from the desired angle to face recognition, try again please "</string>
+    <string name="installation_completed">Installation Completed!</string>
+    <string name="device_dosnt_have_camera">This device doesn\'t have a front camera, unfortunately it is not possible to continue with the test.</string>
+    <string name="no_permission">No permissions</string>
+    <string name="next">Next</string>
+    <string name="identification_succeeded">Your face was successfully identified</string>
+</resources>

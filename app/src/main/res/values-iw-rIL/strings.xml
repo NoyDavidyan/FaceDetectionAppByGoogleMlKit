@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">זיהוי פנים</string>
+    <string name="installation_completed">ההתקנה הושלמה!</string>
+    <string name="wait_3_seconds">המתן 3 שניות באותה הזווית בבקשה</string>
+    <string name="time_left">זמן נותר לזיהוי</string>
+    <string name="place_the_device">מקם את המכשיר למול המלמה הקדמית בבקשה</string>
+    <string name="continue_to_next_step">המשך לשלב הבא</string>
+    <string name="looking_for_face">מחפש פנים לזיהוי..</string>
+    <string name="shift_desired_angle">הייתה תזוזה מהזווית הרצויה לזיהוי הפנים, נסה שוב בבקשה</string>
+    <string name="device_dosnt_have_camera">למכשיר הזה אין מצלמה קדמית, לצערנו לא ניתן להמשיך בבדיקה</string>
+    <string name="no_permission">אין הרשאות</string>
+    <string name="next">הבא</string>
+    <string name="identification_succeeded">פניך זוהו בהצלחה</string>
+</resources>
